@@ -1,4 +1,4 @@
-package com.myframework;
+package myframework;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.*;
